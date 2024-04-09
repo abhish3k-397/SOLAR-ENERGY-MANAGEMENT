@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -230,7 +231,7 @@
 
               >Read More</a
             >
-            <a class="btn btn-primary font-weight-bold py-3 px-5 mt-2" type="button" href="assets/USES_compressed.pdf" >Download PDF</a>
+            <a class="btn btn-primary font-weight-bold py-3 px-5 mt-2" type="button" href="https://www.researchgate.net/publication/340417735_Development_Of_A_Smart_Solar_Energy_Management_System" >Download PDF</a>
           </div>
         </div>
       </div>
@@ -531,7 +532,7 @@
                 <div
                   class="h-100 d-flex flex-column justify-content-center bg-secondary p-4"
                 >
-                  <h5 class="mb-2">Basu Salathiya</h5>
+                  <h5 class="mb-2">Basu Slathiya</h5>
                   <p class="text-muted font-italic mb-2"></p>
                   <p>
                    <br> Btech. CSE<br>
