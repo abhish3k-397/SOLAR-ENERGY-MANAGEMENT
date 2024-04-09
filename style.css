@@ -5819,9 +5819,10 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: #e5e0dc;
+  color: #0d0d0d;
   background-clip: padding-box;
-  border: 2px solid rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(211, 73, 13, 0.2);
   outline: 0;
 }
 
@@ -10068,4 +10069,4 @@ h6 {
 
 .para-p {
   text-align: justify;
-}
+} 
